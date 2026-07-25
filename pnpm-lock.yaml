@@ -229,7 +229,7 @@ importers:
         specifier: runtime:26.5.0
         version: runtime:26.5.0
       oxfmt:
-        specifier: ^0.57.0
+        specifier: '>=0.57.0'
         version: 0.57.0
       semantic-release:
         specifier: ^25.0.5
